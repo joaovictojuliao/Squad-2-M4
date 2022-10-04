@@ -7,7 +7,7 @@ Nossa equipe recebeu um novo desafio, analisar e organizar uma tabela de julho e
 
 ### ANALISANDO OS DADOS
 
-O intuito dessa analise é trazer informações sobre o combustível no nosso país, como valores, valores de revenda, regiões, número de postos, mês, bandeira do posto e outras diversas informações que quando analisadas da maneira correta, nos trazem muitas informações úteis. 
+O intuito dessa analise é trazer informações sobre o combustível no nosso país nos meses de julho e agosto, como valores, valores de revenda, regiões, número de postos, mês, bandeira do posto e outras diversas informações que quando analisadas da maneira correta, nos trazem muitas informações úteis. 
 
 
 ### FUNCIONAMENTO 
