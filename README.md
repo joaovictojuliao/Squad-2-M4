@@ -22,7 +22,15 @@ Há alguma correlação entre o valor do combustível (gasolina e etanol) e a ba
 O intuito dessa analise é trazer informações sobre o combustível no nosso país nos meses de julho e agosto, como valores, valores de revenda, regiões, número de postos, mês, bandeira do posto e outras diversas informações que quando analisadas da maneira correta, nos trazem muitas informações úteis. 
 
 
-### FUNCIONAMENTO 
+### NECESSÁRIO PARA O FUNCIONAMENTO 
+
+Jupyter Notebook/Colab
+Fazer a análise exploratória
+Fazer a limpeza dos dados
+Notebook organizado
+Responder as 10 questões
+Criar mais 2 perguntas e responde-las
+
 
 
 ### FERRAMENTAS UTILIZADAS
