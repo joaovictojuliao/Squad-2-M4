@@ -41,7 +41,7 @@ O intuito dessa analise é trazer informações sobre o combustível no nosso pa
 
 ### João Victor Julião
 ### Gestor de conhecimento
-<img src="https://avatars.githubusercontent.com/u/107512421?v=4" width="100" height="100" />
+<img src="https://avatars.githubusercontent.com/u/107512421?v=4" width="200" height="200" />
 <p align="left">
 <p align="left">
   <a href="#" alt="Linkedin">
@@ -53,7 +53,7 @@ O intuito dessa analise é trazer informações sobre o combustível no nosso pa
   
 ### Aline Ester de O. Gomes
 ### Co-Facilitadora
-<img src="https://avatars.githubusercontent.com/u/105750683?v=4" width="100" height="100" />
+<img src="https://avatars.githubusercontent.com/u/105750683?v=4" width="200" height="200" />
 <p align="left">
 <p align="left">
   <a href="#" alt="Linkedin">
@@ -65,7 +65,7 @@ O intuito dessa analise é trazer informações sobre o combustível no nosso pa
   
 ### Elizangela Camargo
 ### Gestora de gente e engajamento
-<img src="https://avatars.githubusercontent.com/u/40433498?v=4" width="100" height="100" />
+<img src="https://avatars.githubusercontent.com/u/40433498?v=4" width="200" height="200" />
 <p align="left">
 <p align="left">
   <a href="#" alt="Linkedin">
@@ -77,7 +77,7 @@ O intuito dessa analise é trazer informações sobre o combustível no nosso pa
   
 ### Dayane Brito
 ### Colaboradora I
-<img src="https://avatars.githubusercontent.com/u/107062500?v=4" width="100" height="100" />
+<img src="https://avatars.githubusercontent.com/u/107062500?v=4" width="200" height="200" />
 <p align="left">
   <p align="left">
   <a href="#" alt="Linkedin">
@@ -85,5 +85,8 @@ O intuito dessa analise é trazer informações sobre o combustível no nosso pa
 
   <a href="#" alt="Github">
      <a href="https://github.com/DayBrito" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
-</p> 
+
+[<img src="https://user-images.githubusercontent.com/40433498/194382348-3770022f-2d27-4d47-9314-4df6960d1c16.PNG"/>](https://www.canva.com/design/DAFOC9O6uuY/osOFgFaD4-gA23zVB-PB9A/view?utm_content=DAFOC9O6uuY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+ 
+   
   
