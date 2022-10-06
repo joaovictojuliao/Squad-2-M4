@@ -1,6 +1,6 @@
 
 # <center>Projeto preço dos combustíveis Julho/Agosto -  Módulo 4 - Data Analyst </center>
-
+![Resilia - M4 - Squad 2 - Análise Exploratória Preços dos Combustíveis ](https://user-images.githubusercontent.com/40433498/194376454-11fb95c7-0224-4398-ad77-a8acd8849f1b.gif)
 ### OBJETIVO
 
 Nossa equipe recebeu um novo desafio, analisar e organizar uma tabela de julho e agosto de 2022 referente a diferças informações sobre o combustível no Brasil, nossa tarefa é analisar todos esses dados e extrair o máximo de informações possíveis para uma análise completa e detalhada. Responderemos também a 12 perguntas, sendo 2 delas feitas por nós da equipe. Trazendo assim diverças informações que serão úteis.
@@ -43,20 +43,47 @@ O intuito dessa analise é trazer informações sobre o combustível no nosso pa
 ### Gestor de conhecimento
 <img src="https://avatars.githubusercontent.com/u/107512421?v=4" width="100" height="100" />
 <p align="left">
+<p align="left">
+  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/joao-victor-juliao/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
+
+  <a href="#" alt="Github">
+     <a href="https://github.com/joaovictojuliao" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
+</p> 
   
 ### Aline Ester de O. Gomes
 ### Co-Facilitadora
 <img src="https://avatars.githubusercontent.com/u/105750683?v=4" width="100" height="100" />
 <p align="left">
+<p align="left">
+  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/aeogomes/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
+
+  <a href="#" alt="Github">
+     <a href="https://github.com/enilaester" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
+</p> 
   
 ### Elizangela Camargo
 ### Gestora de gente e engajamento
 <img src="https://avatars.githubusercontent.com/u/40433498?v=4" width="100" height="100" />
 <p align="left">
+<p align="left">
+  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/elizangela-camargo-3ab908144/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
+
+  <a href="#" alt="Github">
+     <a href="https://https://github.com/elizangela-camargo/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
+</p> 
   
 ### Dayane Brito
 ### Colaboradora I
 <img src="https://avatars.githubusercontent.com/u/107062500?v=4" width="100" height="100" />
 <p align="left">
-  
+  <p align="left">
+  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/dayane-brito-/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
+
+  <a href="#" alt="Github">
+     <a href="https://github.com/DayBrito" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
+</p> 
   
