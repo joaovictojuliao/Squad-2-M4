@@ -4,6 +4,18 @@
 ### OBJETIVO
 Nossa equipe recebeu um novo desafio, analisar e organizar uma tabela de julho e agosto de 2022 referente a diferças informações sobre o combustível no Brasil, nossa tarefa é analisar todos esses dados e extrair o máximo de informações possíveis para uma análise completa e detalhada. Responderemos também a 12 perguntas, sendo 2 delas feitas por nós da equipe. Trazendo assim diverças informações que serão úteis.
 
+Abaixo estão as perguntas respondidas durante o projeto: 
+Como se comportaram o preço dos combustíveis durante os dois meses citados? Os valores do etanol e da gasolina tiveram uma de queda ou diminuição?
+Qual o preço médio da gasolina e do etanol nesses dois meses?
+Quais os 5 estados com o preço médio da gasolina e do etanol mais caros?
+Qual o preço médio da gasolina e do etanol por estado?
+Qual o município que possui o menor preço para a gasolina e para o etanol?
+Qual o município que possui o maior preço para a gasolina e para o etanol?
+Qual a região que possui o maior valor médio da gasolina?
+Qual a região que possui o menor valor médio do etanol?
+Há alguma correlação entre o valor do combustível (gasolina e etanol) e a região onde ele é vendido?
+Há alguma correlação entre o valor do combustível (gasolina e etanol) e a bandeira que vende ele?
+
 
 ### ANALISANDO OS DADOS
 
@@ -19,6 +31,18 @@ O intuito dessa analise é trazer informações sobre o combustível no nosso pa
 
 ### João Victor Julião
 <img src="https://media-exp1.licdn.com/dms/image/C4D03AQGHhdROxq2PcQ/profile-displayphoto-shrink_800_800/0/1658373733353?e=1664409600&v=beta&t=xbIUv_Qsf-meF3KZSsTheGy2iZ0MfjWbFJ52o_eejM8" width="100" height="100" />
+<p align="left">
+  
+### Aline Ester de O. Gomes
+<img src="https://avatars.githubusercontent.com/u/105750683?v=4" width="100" height="100" />
+<p align="left">
+  
+### Elizangela Camargo
+<img src="https://avatars.githubusercontent.com/u/40433498?v=4" width="100" height="100" />
+<p align="left">
+  
+### Dayane Brito
+<img src="https://avatars.githubusercontent.com/u/107062500?v=4" width="100" height="100" />
 <p align="left">
   
   
