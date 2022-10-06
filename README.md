@@ -30,18 +30,22 @@ O intuito dessa analise é trazer informações sobre o combustível no nosso pa
 ### DESENVOLVEDORES DO PROJETO
 
 ### João Victor Julião
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQGHhdROxq2PcQ/profile-displayphoto-shrink_800_800/0/1658373733353?e=1664409600&v=beta&t=xbIUv_Qsf-meF3KZSsTheGy2iZ0MfjWbFJ52o_eejM8" width="100" height="100" />
+### Gestor de conhecimento
+<img src="https://avatars.githubusercontent.com/u/107512421?v=4" width="100" height="100" />
 <p align="left">
   
 ### Aline Ester de O. Gomes
+### Co-Facilitadora
 <img src="https://avatars.githubusercontent.com/u/105750683?v=4" width="100" height="100" />
 <p align="left">
   
 ### Elizangela Camargo
+### Gestora de gente e engajamento
 <img src="https://avatars.githubusercontent.com/u/40433498?v=4" width="100" height="100" />
 <p align="left">
   
 ### Dayane Brito
+### Colaboradora I
 <img src="https://avatars.githubusercontent.com/u/107062500?v=4" width="100" height="100" />
 <p align="left">
   
