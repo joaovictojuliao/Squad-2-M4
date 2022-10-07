@@ -28,7 +28,7 @@ O intuito dessa analise é trazer informações sobre o combustível no nosso pa
 ### COMO ACESSAR O PROJETO? 
 
 * Realizar o download do repositório disponível nessa página inicial;
-* Importar para o arquivo principal no [Jupyter Notebook](https://jupyter.org/) ou pelo [Google Colaboratory](https://colab.research.google.com/);
+* Importar o arquivo principal através do [Jupyter Notebook](https://jupyter.org/) ou pelo [Google Colaboratory](https://colab.research.google.com/);
 * Executar o arquivo e editar como quiser! 
 * OBS: Por favor, desconsidere o arquivo nomeado como "(Projeto Antigo) Resilia_M4_Projeto_Final_dados_ANP.ipynb". Ele foi descontinuado e está no repositório apenas para a documentação do nosso trabalho durante esse projeto.
 
