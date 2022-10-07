@@ -3,10 +3,10 @@
 ![Resilia - M4 - Squad 2 - Análise Exploratória Preços dos Combustíveis ](https://user-images.githubusercontent.com/40433498/194376454-11fb95c7-0224-4398-ad77-a8acd8849f1b.gif)
 ### OBJETIVO
 
-Nossa equipe recebeu um novo desafio, analisar e organizar uma tabela de julho e agosto de 2022 referente a diferças informações sobre o combustível no Brasil, nossa tarefa é analisar todos esses dados e extrair o máximo de informações possíveis para uma análise completa e detalhada. Responderemos também a 12 perguntas, sendo 2 delas feitas por nós da equipe. Trazendo assim diverças informações que serão úteis.
+Nossa equipe recebeu um novo desafio, organizar e analisar uma tabela de julho a agosto de 2022 referente a diversas informações sobre o combustível no Brasil. Temos como objetivo extrair o máximo de informações possíveis atráves de uma análise completa e detalhada. Para isso, responderemos 12 perguntas, sendo 2 delas elaboradas pela própria equipe. 
 
 Abaixo estão as perguntas respondidas durante o projeto: 
-* Como se comportaram o preço dos combustíveis durante os dois meses citados? Os valores do etanol e da gasolina tiveram uma de queda ou diminuição?
+* Como se comportaram o preço dos combustíveis durante os dois meses citados? Os valores do etanol e da gasolina tiveram uma queda ou aumento?
 * Qual o preço médio da gasolina e do etanol nesses dois meses?
 * Quais os 5 estados com o preço médio da gasolina e do etanol mais caros?
 * Qual o preço médio da gasolina e do etanol por estado?
@@ -16,21 +16,24 @@ Abaixo estão as perguntas respondidas durante o projeto:
 * Qual a região que possui o menor valor médio do etanol?
 * Há alguma correlação entre o valor do combustível (gasolina e etanol) e a região onde ele é vendido?
 * Há alguma correlação entre o valor do combustível (gasolina e etanol) e a bandeira que vende ele?
+* A base de dados utilizada é homogênea ou heterogênea?
+* Quais as 5 bandeiras que apresentam o maior e menor preço médio?
 
 
 ### ANALISANDO OS DADOS
 
-O intuito dessa analise é trazer informações sobre o combustível no nosso país nos meses de julho e agosto, como valores, valores de revenda, regiões, número de postos, mês, bandeira do posto e outras diversas informações que quando analisadas da maneira correta, nos trazem muitas informações úteis. 
+O intuito dessa analise é trazer informações sobre o combustível no nosso país nos meses de julho e agosto de 2022, utilizando variáveis como valores de revenda, regiões, municípios, número de postos, data de coleta, bandeira do posto de revenda e outras diversas informações que quando analisadas da maneira correta, nos trazem muitas informações úteis. 
 
 
-### NECESSÁRIO PARA O FUNCIONAMENTO 
+### COMO ACESSAR O PROJETO? 
 
-* Jupyter Notebook/Colab
-* Fazer a análise exploratória
-* Fazer a limpeza dos dados
-* Notebook organizado
-* Responder as 10 questões
-* Criar mais 2 perguntas e responde-las
+* Realizar o download do repositório disponível nessa página inicial;
+* Importar para o arquivo principal no [Jupyter Notebook](https://jupyter.org/) ou pelo [Google Colaboratory](https://colab.research.google.com/);
+* Executar o arquivo e editar como quiser! 
+* OBS: Por favor, desconsidere o arquivo nomeado como "(Projeto Antigo) Resilia_M4_Projeto_Final_dados_ANP.ipynb". Ele foi descontinuado e está no repositório apenas para a documentação do nosso trabalho durante esse projeto.
+
+/Colab
+
 
 
 
